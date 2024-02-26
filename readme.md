@@ -1,4 +1,4 @@
-# PYTHON:
+# PYTHON
 
 ### LINK: 
 > https://www.python.org/
