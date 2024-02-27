@@ -9,4 +9,7 @@ _Python é uma linguagem de programação de alto nível, interpretada e de prop
 ### OBJETIVO:
 _Tenho o intuito de documentar cada etapa do meu aprendizado nesta linguagem de programação, a fim de no futuro ter como base de consulta e compartilhar com os demais usuários desta plataforma também._
 
-
+### OBSERVAÇÕES:
+- Tipo de Tipagem: Dinâmica / Forte: 
+    
+    Dinâmica: O Python já sabe qual tipo de dado você está informando no código.

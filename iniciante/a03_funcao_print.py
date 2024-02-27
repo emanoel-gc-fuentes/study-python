@@ -15,3 +15,9 @@ print(999,999,999,99, sep="-")
 
 # Ex. - Altere o separado para pular linhas:
 print(999,888,777,666, sep="\n")
+
+### ALTERAR O FINAL:
+# É possível alterar o argumento nomeado "end" para mudar o do argumento do print
+
+# Ex. - Adicionar Valor em Dollar:
+print(2,501,sep=".", end=" R$")
