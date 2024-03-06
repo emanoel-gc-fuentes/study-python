@@ -70,8 +70,17 @@ MUTÁVEIS = aponta para o mesmo valor na memória
 l_numbers = [1,2,3,4,5,6]
 l_numbers2 = l_numbers
 
-# Ao limpar a lista 2 a lista original será impactada: 
+# # Ao limpar a lista 2 a lista original será impactada: 
 l_numbers2.clear()
 
 print(f'Lista 01: {l_numbers}')
 print(f'Lista 02: {l_numbers2}')
+
+# Resolva essa situação utilizando o método copy:
+l_numbersX = [1,2,3,4,5,6]
+l_numbers3 = l_numbersX.copy()
+l_numbers3.clear()
+
+print(f'Lista X: {l_numbersX}')
+print(f'Lista 03: {l_numbers3}')
+
